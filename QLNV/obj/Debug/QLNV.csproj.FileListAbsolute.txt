@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\ASUS\source\repos\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\ASUS\source\repos\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.nhanvien.resources
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.timkiem.resources
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.them.resources
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.logincs.resources
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.admin.resources
+C:\Users\ASUS\source\repos\QLNV\QLNV\obj\Debug\QLNV.F1.resources
